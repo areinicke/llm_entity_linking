@@ -5,6 +5,6 @@ Testing/
 Implementation/__pycache__/
 Implementation/Models/final-model/
 images/
-Results/
-!Results/Multi-Evaluate-Overview/*
+Results/*
+!Results/Multi-Evaluate-Overview/
 verbalizations_structured.json
