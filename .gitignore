@@ -1,0 +1,9 @@
+*.txt
+.env
+ZELDA/
+Testing/
+Implementation/__pycache__/
+Implementation/Models/final-model/
+images/
+Results/
+verbalizations_structured.json
