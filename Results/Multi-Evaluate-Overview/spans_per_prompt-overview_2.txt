@@ -1,0 +1,7 @@
+Evaluation Overview
+---------------------------------------------------------------------------------------------------------
+AIDA--spans_per_prompt_1--run1: [TEST]	61.30% LLM (79.57% Max) / 40.11% DE (hard) / 66.38% LLM+None / 84.55% Overall (88.32% Max) / 80.18% DE Only | I: 1525661 - O: 959 | 925 / 4485 spans prompted (20.62%) | 0:00:53.773032 | v3
+AIDA--spans_per_prompt_1--run2: [TEST]	61.41% LLM (79.57% Max) / 40.11% DE (hard) / 67.14% LLM+None / 84.57% Overall (88.32% Max) / 80.18% DE Only | I: 1523664 - O: 955 | 925 / 4485 spans prompted (20.62%) | 0:00:50.042129 | v3
+AIDA--spans_per_prompt_1--run3: [TEST]	60.86% LLM (79.57% Max) / 40.11% DE (hard) / 66.59% LLM+None / 84.46% Overall (88.32% Max) / 80.18% DE Only | I: 1520126 - O: 952 | 925 / 4485 spans prompted (20.62%) | 0:00:46.499801 | v3
+cweb--spans_per_prompt_1--run1: [TEST]	33.37% LLM (59.12% Max) / 27.28% DE (hard) / 43.98% LLM+None / 71.02% Overall (78.16% Max) / 69.37% DE Only | I: 10295897 - O: 3245 | 3006 / 11115 spans prompted (27.04%) | 0:02:18.411146 | v3
+cweb--spans_per_prompt_1--run2: [TEST]	33.43% LLM (59.12% Max) / 27.28% DE (hard) / 43.48% LLM+None / 71.04% Overall (78.16% Max) / 69.37% DE Only | I: 10231804 - O: 3232 | 3006 / 11115 spans prompted (27.04%) | 0:04:19.732032 | v3

@@ -1,0 +1,11 @@
+Evaluation Overview
+---------------------------------------------------------------------------------------------------------
+msnbc--add-datasets-gpt_gpt-5-mini-2025-08-07--run1: [TEST]	61.08% LLM (64.67% Max) / 29.94% DE (hard) / 83.83% LLM+None / 81.10% Overall (82.16% Max) / 73.17% DE Only | I: 144608 - O: 7733 | 167 / 656 spans prompted (25.46%) | 0:00:26.844471 | v3
+msnbc--add-datasets-gpt_gpt-5-mini-2025-08-07--run2: [TEST]	61.68% LLM (64.67% Max) / 29.94% DE (hard) / 83.23% LLM+None / 81.25% Overall (82.16% Max) / 73.17% DE Only | I: 144595 - O: 8369 | 167 / 656 spans prompted (25.46%) | 0:00:17.327049 | v3
+msnbc--add-datasets-gpt_gpt-5-mini-2025-08-07--run3: [TEST]	61.08% LLM (64.67% Max) / 29.94% DE (hard) / 83.23% LLM+None / 81.10% Overall (82.16% Max) / 73.17% DE Only | I: 144601 - O: 8365 | 167 / 656 spans prompted (25.46%) | 0:00:22.293725 | v3
+ace2004--add-datasets-gpt_gpt-5-mini-2025-08-07--run1: [TEST]	32.69% LLM (38.46% Max) / 21.15% DE (hard) / 82.69% LLM+None / 78.60% Overall (79.77% Max) / 76.26% DE Only | I: 62639 - O: 4319 | 52 / 257 spans prompted (20.23%) | 0:00:36.798792 | v3
+ace2004--add-datasets-gpt_gpt-5-mini-2025-08-07--run2: [TEST]	34.62% LLM (38.46% Max) / 21.15% DE (hard) / 84.62% LLM+None / 78.99% Overall (79.77% Max) / 76.26% DE Only | I: 62002 - O: 3608 | 52 / 257 spans prompted (20.23%) | 0:00:26.280825 | v3
+ace2004--add-datasets-gpt_gpt-5-mini-2025-08-07--run3: [TEST]	34.62% LLM (38.46% Max) / 21.15% DE (hard) / 86.54% LLM+None / 78.99% Overall (79.77% Max) / 76.26% DE Only | I: 62639 - O: 3936 | 52 / 257 spans prompted (20.23%) | 0:00:31.791515 | v3
+aquaint--add-datasets-gpt_gpt-5-mini-2025-08-07--run1: [TEST]	35.22% LLM (59.12% Max) / 26.42% DE (hard) / 56.60% LLM+None / 74.28% Overall (79.50% Max) / 72.35% DE Only | I: 118084 - O: 12884 | 159 / 727 spans prompted (21.87%) | 0:00:37.000195 | v3
+aquaint--add-datasets-gpt_gpt-5-mini-2025-08-07--run2: [TEST]	36.48% LLM (59.12% Max) / 26.42% DE (hard) / 57.23% LLM+None / 74.55% Overall (79.50% Max) / 72.35% DE Only | I: 118121 - O: 13267 | 159 / 727 spans prompted (21.87%) | 0:00:52.501943 | v3
+aquaint--add-datasets-gpt_gpt-5-mini-2025-08-07--run3: [TEST]	33.96% LLM (59.12% Max) / 26.42% DE (hard) / 55.35% LLM+None / 74.00% Overall (79.50% Max) / 72.35% DE Only | I: 118670 - O: 12569 | 159 / 727 spans prompted (21.87%) | 0:00:34.478230 | v3

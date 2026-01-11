@@ -7,4 +7,5 @@ Implementation/Models/final-model/
 images/
 Results/*
 !Results/Multi-Evaluate-Overview/
+!Results/Multi-Evaluate-Overview/**
 verbalizations_structured.json

@@ -1,0 +1,11 @@
+Evaluation Overview
+---------------------------------------------------------------------------------------------------------
+msnbc--add_datasets_0--run1: [TEST]	62.28% LLM (64.67% Max) / 29.94% DE (hard) / 71.26% LLM+None / 81.40% Overall (82.16% Max) / 73.17% DE Only | I: 145119 - O: 185 | 167 / 656 spans prompted (25.46%) | 0:00:07.306746 | v3
+msnbc--add_datasets_0--run2: [TEST]	62.28% LLM (64.67% Max) / 29.94% DE (hard) / 73.05% LLM+None / 81.40% Overall (82.16% Max) / 73.17% DE Only | I: 147435 - O: 191 | 167 / 656 spans prompted (25.46%) | 0:00:03.664476 | v3
+msnbc--add_datasets_0--run3: [TEST]	62.87% LLM (64.67% Max) / 29.94% DE (hard) / 73.65% LLM+None / 81.55% Overall (82.16% Max) / 73.17% DE Only | I: 147431 - O: 183 | 167 / 656 spans prompted (25.46%) | 0:00:13.724433 | v3
+ace2004--add_datasets_0--run1: [TEST]	34.62% LLM (38.46% Max) / 21.15% DE (hard) / 67.31% LLM+None / 78.99% Overall (79.77% Max) / 76.26% DE Only | I: 62886 - O: 60 | 52 / 257 spans prompted (20.23%) | 0:00:06.727784 | v3
+ace2004--add_datasets_0--run2: [TEST]	36.54% LLM (38.46% Max) / 21.15% DE (hard) / 69.23% LLM+None / 79.38% Overall (79.77% Max) / 76.26% DE Only | I: 63243 - O: 60 | 52 / 257 spans prompted (20.23%) | 0:00:06.211625 | v3
+ace2004--add_datasets_0--run3: [TEST]	34.62% LLM (38.46% Max) / 21.15% DE (hard) / 67.31% LLM+None / 78.99% Overall (79.77% Max) / 76.26% DE Only | I: 64641 - O: 61 | 52 / 257 spans prompted (20.23%) | 0:00:06.188545 | v3
+aquaint--add_datasets_0--run1: [TEST]	31.45% LLM (59.12% Max) / 26.42% DE (hard) / 41.51% LLM+None / 73.45% Overall (79.50% Max) / 72.35% DE Only | I: 118418 - O: 191 | 159 / 727 spans prompted (21.87%) | 0:00:09.845033 | v3
+aquaint--add_datasets_0--run2: [TEST]	30.19% LLM (59.12% Max) / 26.42% DE (hard) / 40.88% LLM+None / 73.18% Overall (79.50% Max) / 72.35% DE Only | I: 118691 - O: 187 | 159 / 727 spans prompted (21.87%) | 0:00:07.221759 | v3
+aquaint--add_datasets_0--run3: [TEST]	32.08% LLM (59.12% Max) / 26.42% DE (hard) / 42.77% LLM+None / 73.59% Overall (79.50% Max) / 72.35% DE Only | I: 118404 - O: 196 | 159 / 727 spans prompted (21.87%) | 0:00:07.835303 | v3
