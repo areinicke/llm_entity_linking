@@ -1,7 +1,7 @@
 *.txt
 .env
-ZELDA/
 Testing/
+sentence_cache/ZELDA/backup/
 Implementation/__pycache__/
 Implementation/Models/final-model/
 images/
