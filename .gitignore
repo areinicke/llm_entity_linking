@@ -3,7 +3,8 @@
 Testing/
 sentence_cache/ZELDA/backup/
 Implementation/__pycache__/
-Implementation/Models/final-model/
+Implementation/Models/final-model/final-model.pt
+!Implementation/Models/final-model/model_args.txt
 images/
 Results/*
 !Results/Multi-Evaluate-Overview/

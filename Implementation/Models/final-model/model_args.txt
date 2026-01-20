@@ -1,0 +1,1 @@
+docTrue-general_label_setTrue-LabelUsetitle+description-maxLen50-greedyFalse-labelSampleNone-bert-base-uncased-poolingfirst_last-context0-neghard-factor1-losscross_entropy-simeuclidean-labelupdTrue-ep20-BS32-LR5e-06-seed123-downNone_new
